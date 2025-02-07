@@ -1,0 +1,212 @@
+target,text,processed_text_str
+0,"['thats', 'bummer', 'shoulda', 'got', 'david', 'carr', 'third', 'day']",thats bummer shoulda got david carr third day
+0,"['upset', 'cant', 'update', 'facebook', 'texting', 'might', 'cry', 'result', 'school', 'today', 'also', 'blah']",upset cant update facebook texting might cry result school today also blah
+0,"['dived', 'many', 'time', 'ball', 'managed', 'save', 'rest', 'go', 'bound']",dived many time ball managed save rest go bound
+0,"['whole', 'body', 'feel', 'itchy', 'like', 'fire']",whole body feel itchy like fire
+0,"['no', 'not', 'behaving', 'mad', 'cant', 'see']",no not behaving mad cant see
+0,"['not', 'whole', 'crew']",not whole crew
+0,"['need', 'hug']",need hug
+0,"['hey', 'long', 'time', 'no', 'see', 'yes', 'rain', 'bit', 'only', 'bit', 'lol', 'fine', 'thanks', 'hows']",hey long time no see yes rain bit only bit lol fine thanks hows
+0,"['nope', 'didnt']",nope didnt
+0,"['que', 'muera']",que muera
+0,"['spring', 'break', 'plain', 'city', 'snowing']",spring break plain city snowing
+0,"['just', 'repierced', 'ear']",just repierced ear
+0,"['couldnt', 'bear', 'watch', 'thought', 'ua', 'loss', 'embarrassing']",couldnt bear watch thought ua loss embarrassing
+0,"['count', 'idk', 'either', 'never', 'talk', 'anymore']",count idk either never talk anymore
+0,"['wouldve', 'first', 'but', 'didnt', 'gun', 'not', 'really', 'though', 'zac', 'snyders', 'just', 'doucheclown']",wouldve first but didnt gun not really though zac snyders just doucheclown
+0,"['wish', 'got', 'watch', 'miss', 'premiere']",wish got watch miss premiere
+0,"['hollis', 'death', 'scene', 'hurt', 'severely', 'watch', 'film', 'wry', 'director', 'cut', 'not']",hollis death scene hurt severely watch film wry director cut not
+0,"['file', 'tax']",file tax
+0,"['ahh', 'ive', 'always', 'wanted', 'see', 'rent', 'love', 'soundtrack']",ahh ive always wanted see rent love soundtrack
+0,"['oh', 'dear', 'drinking', 'forgotten', 'table', 'drink']",oh dear drinking forgotten table drink
+0,"['day', 'didnt', 'get', 'much', 'done']",day didnt get much done
+0,"['one', 'friend', 'called', 'asked', 'meet', 'mid', 'valley', 'todaybut', 'ive', 'no', 'time', 'sigh']",one friend called asked meet mid valley todaybut ive no time sigh
+0,"['baked', 'cake', 'but', 'ated']",baked cake but ated
+0,"['week', 'not', 'going', 'hoped']",week not going hoped
+0,"['blagh', 'class', 'tomorrow']",blagh class tomorrow
+0,"['hate', 'call', 'wake', 'people']",hate call wake people
+0,"['just', 'going', 'cry', 'sleep', 'watching', 'marley']",just going cry sleep watching marley
+0,"['sad', 'misslilly']",sad misslilly
+0,"['ooooh', 'lol', 'leslie', 'ok', 'wont', 'leslie', 'wont', 'get', 'mad']",ooooh lol leslie ok wont leslie wont get mad
+0,"['meh', 'almost', 'lover', 'exception', 'track', 'get', 'depressed', 'every', 'time']",meh almost lover exception track get depressed every time
+0,"['hacked', 'account', 'aim', 'make', 'new', 'one']",hacked account aim make new one
+0,"['want', 'go', 'promote', 'gear', 'groove', 'but', 'unfornately', 'no', 'ride', 'may', 'b', 'going', 'one', 'anaheim', 'may', 'though']",want go promote gear groove but unfornately no ride may b going one anaheim may though
+0,"['thought', 'sleeping', 'option', 'tomorrow', 'but', 'realizing', 'not', 'evaluation', 'morning', 'work', 'afternoon']",thought sleeping option tomorrow but realizing not evaluation morning work afternoon
+0,"['awe', 'love', 'too', 'miss']",awe love too miss
+0,"['cry', 'asian', 'eye', 'sleep', 'night']",cry asian eye sleep night
+0,"['ok', 'sick', 'spent', 'hour', 'sitting', 'shower', 'cause', 'too', 'sick', 'stand', 'held', 'back', 'puke', 'like', 'champ', 'bed']",ok sick spent hour sitting shower cause too sick stand held back puke like champ bed
+0,"['ill', 'tell', 'ya', 'story', 'later', 'not', 'good', 'day', 'ill', 'workin', 'like', 'three', 'hour']",ill tell ya story later not good day ill workin like three hour
+0,"['sorry', 'bed', 'time', 'came', 'gmt']",sorry bed time came gmt
+0,"['dont', 'either', 'depressing', 'dont', 'think', 'even', 'want', 'know', 'kid', 'suitcase']",dont either depressing dont think even want know kid suitcase
+0,"['bed', 'class', 'work', 'gym', 'class', 'another', 'day', 'thats', 'gon', 'na', 'fly', 'miss', 'girlfriend']",bed class work gym class another day thats gon na fly miss girlfriend
+0,"['really', 'dont', 'feel', 'like', 'getting', 'today', 'but', 'got', 'study', 'tomorrow', 'practical', 'exam']",really dont feel like getting today but got study tomorrow practical exam
+0,"['he', 'reason', 'teardrop', 'guitar', 'only', 'one', 'enough', 'break', 'heart']",he reason teardrop guitar only one enough break heart
+0,"['sad', 'sad', 'sad', 'dont', 'know', 'but', 'hate', 'feeling', 'wan', 'na', 'sleep', 'still', 'cant']",sad sad sad dont know but hate feeling wan na sleep still cant
+0,"['awww', 'soo', 'wish', 'see', 'finally', 'comfortable', 'sad', 'missed']",awww soo wish see finally comfortable sad missed
+0,"['falling', 'asleep', 'just', 'heard', 'tracy', 'girl', 'body', 'found', 'sad', 'heart', 'break', 'family']",falling asleep just heard tracy girl body found sad heart break family
+0,"['yay', 'happy', 'job', 'but', 'also', 'mean', 'le', 'time']",yay happy job but also mean le time
+0,"['just', 'checked', 'user', 'timeline', 'blackberry', 'look', 'like', 'twanking', 'still', 'happening', 'ppl', 'still', 'probs', 'w', 'bgs', 'uids']",just checked user timeline blackberry look like twanking still happening ppl still probs w bgs uids
+0,"['oh', 'manwas', 'ironing', 'fave', 'top', 'wear', 'meeting', 'burnt']",oh manwas ironing fave top wear meeting burnt
+0,"['strangely', 'sad', 'lilo', 'samro', 'breaking']",strangely sad lilo samro breaking
+0,"['oh', 'sorry', 'didnt', 'think', 'retweeting']",oh sorry didnt think retweeting
+0,"['broadband', 'plan', 'massive', 'broken', 'promise', 'via', 'still', 'waiting', 'broadband']",broadband plan massive broken promise via still waiting broadband
+0,"['wow', 'ton', 'reply', 'may', 'unfollow', 'see', 'friend', 'tweet', 'youre', 'scrolling', 'feed', 'lot']",wow ton reply may unfollow see friend tweet youre scrolling feed lot
+0,"['duck', 'chicken', 'taking', 'wayyy', 'too', 'long', 'hatch']",duck chicken taking wayyy too long hatch
+0,"['put', 'vacation', 'photo', 'online', 'yr', 'ago', 'pc', 'crashed', 'forget', 'name', 'site']",put vacation photo online yr ago pc crashed forget name site
+0,"['need', 'hug']",need hug
+0,"['not', 'sure', 'only', 'po', 'much', 'want', 'dont', 'think', 'trade', 'away', 'company', 'asset', 'sorry', 'andy']",not sure only po much want dont think trade away company asset sorry andy
+0,"['hate', 'happens']",hate happens
+0,"['sad', 'feeling', 'dallas', 'not', 'going', 'show', 'got', 'ta', 'say', 'though', 'youd', 'think', 'show', 'would', 'use', 'music', 'game', 'mmm']",sad feeling dallas not going show got ta say though youd think show would use music game mmm
+0,"['ugh', 'degree', 'tomorrow']",ugh degree tomorrow
+0,"['move', 'thought', 'already', 'sd', 'hmmm', 'random', 'found', 'glad', 'hear', 'yer', 'well']",move thought already sd hmmm random found glad hear yer well
+0,"['miss', 'p', 'commission', 'wutcha', 'playing', 'copped', 'blood', 'sand']",miss p commission wutcha playing copped blood sand
+0,"['just', 'leaving', 'parking', 'lot', 'work']",just leaving parking lot work
+0,"['life', 'cool', 'but', 'not']",life cool but not
+0,"['sadly', 'though', 'ive', 'never', 'gotten', 'experience', 'post', 'coitus', 'cigarette', 'never']",sadly though ive never gotten experience post coitus cigarette never
+0,"['nice', 'day', 'too', 'bad', 'rain', 'come', 'tomorrow']",nice day too bad rain come tomorrow
+0,"['too', 'bad', 'wont', 'around', 'lost', 'job', 'cant', 'even', 'pay', 'phone', 'bill', 'lmao', 'aw', 'shuck']",too bad wont around lost job cant even pay phone bill lmao aw shuck
+0,"['damm', 'back', 'school', 'tomorrow']",damm back school tomorrow
+0,"['mo', 'job', 'no', 'money', 'hell', 'min', 'wage', 'fn', 'clam', 'hour']",mo job no money hell min wage fn clam hour
+0,"['not', 'forever', 'see', 'soon']",not forever see soon
+0,"['agreed', 'saw', 'failwhale', 'allllll', 'day', 'today']",agreed saw failwhale allllll day today
+0,"['oh', 'haha', 'dude', 'dont', 'really', 'look', 'em', 'unless', 'someone', 'say', 'hey', 'added', 'sorry', 'terrible', 'need', 'pop']",oh haha dude dont really look em unless someone say hey added sorry terrible need pop
+0,"['sure', 'youre', 'right', 'need', 'start', 'working', 'nikster', 'jared', 'least']",sure youre right need start working nikster jared least
+0,"['really', 'hate', 'people', 'dis', 'band', 'trace', 'clearly', 'not', 'ugly']",really hate people dis band trace clearly not ugly
+0,"['gym', 'attire', 'today', 'puma', 'singlet', 'adidas', 'shortsand', 'black', 'business', 'sock', 'leather', 'shoe', 'lucky', 'not', 'run', 'cute', 'girl']",gym attire today puma singlet adidas shortsand black business sock leather shoe lucky not run cute girl
+0,"['wont', 'show', 'location']",wont show location
+0,"['no', 'picnic', 'phone', 'smell', 'like', 'citrus']",no picnic phone smell like citrus
+0,"['donkey', 'sensitive', 'comment', 'nevertheless', 'hed', 'med', 'glad', 'see', 'mug', 'asap', 'charger', 'still', 'awol']",donkey sensitive comment nevertheless hed med glad see mug asap charger still awol
+0,"['no', 'new', 'csi', 'tonight', 'fml']",no new csi tonight fml
+0,"['think', 'arm', 'sore', 'tennis']",think arm sore tennis
+0,"['wonder', 'someone', 'like', 'much', 'make', 'unhappy', 'split', 'seccond', 'depressed']",wonder someone like much make unhappy split seccond depressed
+0,"['sleep', 'soon', 'just', 'hate', 'saying', 'bye', 'see', 'tomorrow', 'night']",sleep soon just hate saying bye see tomorrow night
+0,"['just', 'got', 'ur', 'newsletter', 'fare', 'really', 'unbelievable', 'shame', 'already', 'booked', 'paid', 'mine']",just got ur newsletter fare really unbelievable shame already booked paid mine
+0,"['missin', 'boo']",missin boo
+0,['too'],too
+0,"['damn', 'dont', 'chalk', 'chalkboard', 'useless']",damn dont chalk chalkboard useless
+0,"['blast', 'getty', 'villa', 'but', 'hate', 'shes', 'sore', 'throat', 'day', 'just', 'getting', 'worse', 'too']",blast getty villa but hate shes sore throat day just getting worse too
+0,"['hey', 'missed', 'ya', 'meeting', 'sup', 'mama']",hey missed ya meeting sup mama
+0,"['tummy', 'hurt', 'wonder', 'hypnosis', 'anything', 'working', 'get', 'stop', 'smoking']",tummy hurt wonder hypnosis anything working get stop smoking
+0,"['always', 'fat', 'one']",always fat one
+0,"['sorry', 'babe', 'fam', 'annoys', 'too', 'thankfully', 'theyre', 'asleep', 'right', 'muahaha', 'evil', 'laugh']",sorry babe fam annoys too thankfully theyre asleep right muahaha evil laugh
+0,"['should', 'paid', 'attention', 'covered', 'photoshop', 'webpage', 'design', 'class', 'undergrad']",should paid attention covered photoshop webpage design class undergrad
+0,"['wednesday', 'bday', 'dont', 'know']",wednesday bday dont know
+0,"['poor', 'cameron', 'hill']",poor cameron hill
+0,"['pray', 'please', 'ex', 'threatening', 'start', 'sh', 'myour', 'baby', 'st', 'birthday', 'party', 'jerk', 'still', 'headache']",pray please ex threatening start sh myour baby st birthday party jerk still headache
+0,"['hmm', 'really', 'enjoy', 'problem', 'too', 'constant', 'should', 'think', 'thing', 'find', 'someone', 'ulike']",hmm really enjoy problem too constant should think thing find someone ulike
+0,"['strider', 'sick', 'little', 'puppy']",strider sick little puppy
+0,"['ryleegracewana', 'go', 'steves', 'party', 'not', 'sadly', 'since', 'easter', 'wnt', 'b', 'able', 'much', 'but', 'ohh', 'well']",ryleegracewana go steves party not sadly since easter wnt b able much but ohh well
+0,"['hey', 'actually', 'one', 'bracket', 'pool', 'too', 'bad', 'wasnt', 'one', 'money']",hey actually one bracket pool too bad wasnt one money
+0,"['dont', 'follow', 'either', 'work']",dont follow either work
+0,"['bad', 'nite', 'favorite', 'team', 'astros', 'spartan', 'lose', 'nite', 'tw', 'good']",bad nite favorite team astros spartan lose nite tw good
+0,"['body', 'missing', 'northern', 'calif', 'girl', 'found', 'police', 'found', 'remains', 'missing', 'northern', 'california', 'girl']",body missing northern calif girl found police found remains missing northern california girl
+0,"['hope', 'increase', 'capacity', 'fast', 'yesterday', 'pain', 'got', 'fail', 'whale', 'time', 'hour']",hope increase capacity fast yesterday pain got fail whale time hour
+0,"['behind', 'class', 'work']",behind class work
+0,"['watching', 'quothousequot']",watching quothousequot
+0,"['remember', 'bum', 'leg', 'strike', 'back', 'time', 'serious']",remember bum leg strike back time serious
+0,"['cool', 'kind', 'complaint', 'laptop', 'online', 'overheating', 'but', 'no', 'recall']",cool kind complaint laptop online overheating but no recall
+0,"['emily', 'glad', 'mommy', 'done', 'training', 'new', 'job', 'miss']",emily glad mommy done training new job miss
+0,"['would', 'rather', 'first', 'party', 'send', 'bad', 'message', 'rd', 'party', 'send', 'mixed', 'one', 'sophmore', 'year']",would rather first party send bad message rd party send mixed one sophmore year
+0,['overrated'],overrated
+0,"['know', 'heard', 'afternoon', 'wondered', 'thing', 'moscow', 'behind', 'time']",know heard afternoon wondered thing moscow behind time
+0,"['laying', 'bed', 'no', 'voice']",laying bed no voice
+0,"['sooo', 'sad', 'killed', 'kutner', 'house', 'whyyyyyyyy']",sooo sad killed kutner house whyyyyyyyy
+0,"['sorry', 'tell', 'mea', 'culpa', 'really', 'sorry']",sorry tell mea culpa really sorry
+0,"['didnt', 'make', 'sense', 'suicide', 'thing', 'refuse', 'believe', 'actually', 'happened']",didnt make sense suicide thing refuse believe actually happened
+0,"['hope', 'ok']",hope ok
+0,"['damn', 'grind', 'inspirational', 'saddening', 'time', 'dont', 'want', 'stop', 'cuz', 'like', 'much', 'love']",damn grind inspirational saddening time dont want stop cuz like much love
+0,"['yeah', 'aw', 'but', 'know', 'wudnt', 'stand', 'chance']",yeah aw but know wudnt stand chance
+0,"['ugh', 'cant', 'sleep']",ugh cant sleep
+0,"['hanging', 'crooner', 'wan', 'na', 'sing', 'cant', 'suck']",hanging crooner wan na sing cant suck
+0,"['aaw', 'miss', 'ya', 'too', 'leaving', 'bh', 'tomorrow', 'quotmorningquot', 'think', 'aww', 'wan', 'na', 'go', 'beach', 'w', 'girl']",aaw miss ya too leaving bh tomorrow quotmorningquot think aww wan na go beach w girl
+0,"['pissed', 'there', 'no', 'asbas', 'radio', 'station']",pissed there no asbas radio station
+0,"['wednesday', 'bday', 'n', 'dont', 'know']",wednesday bday n dont know
+0,"['know', 'life', 'flipped', 'upside', 'just', 'thought', 'head', 'ramen', 'sound', 'good']",know life flipped upside just thought head ramen sound good
+0,"['pain', 'back', 'side', 'hurt', 'not', 'mention', 'cry', 'made', 'fail']",pain back side hurt not mention cry made fail
+0,"['late', 'night', 'snack', 'glass', 'oj', 'bc', 'quotdown', 'sicknessquot', 'back', 'sleepugh', 'hate', 'getting', 'sick']",late night snack glass oj bc quotdown sicknessquot back sleepugh hate getting sick
+0,"['but', 'but', 'but', 'not', 'big', 'fan', 'camilla', 'belle']",but but but not big fan camilla belle
+0,"['wah', 'cant', 'see', 'clip', 'must', 'elstupido', 'work', 'filter', 'cant', 'wait', 'till', 'get', 'puter', 'something', 'else', 'blame', 'ex', 'broke', 'mine']",wah cant see clip must elstupido work filter cant wait till get puter something else blame ex broke mine
+0,"['week', 'just', 'seems', 'get', 'longer', 'longer', 'term', 'much', 'need', 'much', 'actually', 'going', 'get', 'done']",week just seems get longer longer term much need much actually going get done
+0,['cold'],cold
+0,"['ehhh', 'dont', 'weather', 'gon', 'na', 'take', 'turn', 'ugly', 'tomorrow']",ehhh dont weather gon na take turn ugly tomorrow
+0,"['haha', 'cooooold', 'no', 'but', 'should', 'still', 'go', 'show', 'incredible', 'stuff']",haha cooooold no but should still go show incredible stuff
+0,"['hoping', 'tummy', 'rumble', 'go', 'away', 'soon']",hoping tummy rumble go away soon
+0,"['no', 'no', 'notice', 'told', 'id', 'working', 'tomorrow', 'called', 'agency', 'follow', 'said']",no no notice told id working tomorrow called agency follow said
+0,"['almost', 'bedtime']",almost bedtime
+0,"['missing', 'babe', 'but', 'long', 'alive', 'happy', 'ya', 'tired', 'love', 'imma', 'try', 'sleep', 'hopefully', 'headstart']",missing babe but long alive happy ya tired love imma try sleep hopefully headstart
+0,['aghsnow'],aghsnow
+0,"['miss', 'kenny', 'power']",miss kenny power
+0,"['thank', 'letting', 'people', 'know', 'but', 'sad', 'direct', 'message', 'got', 'wasnt', 'actually', 'bridget']",thank letting people know but sad direct message got wasnt actually bridget
+0,"['india', 'missed', 'th', 'test', 'victory', 'n', 'th', 'consecutive', 'win', 'without', 'loss']",india missed th test victory n th consecutive win without loss
+0,"['guess', 'thats', 'no']",guess thats no
+0,"['sadly', 'going', 'bed']",sadly going bed
+0,"['shame', 'hear', 'stephan']",shame hear stephan
+0,"['hey', 'leavin', 'morning']",hey leavin morning
+0,"['intending', 'finish', 'editing', 'page', 'novel', 'manuscript', 'tonight', 'but', 'probably', 'not', 'happen', 'only', 'page', 'left']",intending finish editing page novel manuscript tonight but probably not happen only page left
+0,"['laid', 'around', 'too', 'much', 'today', 'head', 'hurt']",laid around too much today head hurt
+0,"['still', 'havent', 'read', 'thampth', 'princess', 'diary', 'saving', 'francesca', 'made', 'cry', 'end', 'hmm', 'easy', 'book']",still havent read thampth princess diary saving francesca made cry end hmm easy book
+0,"['nokia', 'died']",nokia died
+0,"['mom', 'might', 'breast', 'cancer', 'wont', 'find', 'anything', 'like', 'week', 'worried']",mom might breast cancer wont find anything like week worried
+0,"['going', 'sleep', 'hoping', 'tomorrow', 'better', 'day']",going sleep hoping tomorrow better day
+0,"['lol', 'wish', 'understood', 'daylight', 'saving', 'ended', 'though', 'breakfast', 'hour', 'later', 'keep', 'waking', 'kid', 'too']",lol wish understood daylight saving ended though breakfast hour later keep waking kid too
+0,['lame'],lame
+0,"['dont', 'understand', 'really', 'dont']",dont understand really dont
+0,"['hero', 'just', 'isnt', 'season']",hero just isnt season
+0,"['living', 'not', 'downtown', 'sure', 'isnt', 'much', 'fun']",living not downtown sure isnt much fun
+0,"['not', 'calorie', 'wise', 'wish', 'junk', 'food', 'calorie', 'free', 'ate', 'thing', 'sour', 'skittle', 'big', 'as', 'cherry', 'coke']",not calorie wise wish junk food calorie free ate thing sour skittle big as cherry coke
+0,"['man', 'work', 'hard']",man work hard
+0,"['getting', 'sick', 'time', 'hot', 'tea', 'studying', 'sleeeep']",getting sick time hot tea studying sleeeep
+0,"['getting', 'eyebrow', 'waxed', 'pain']",getting eyebrow waxed pain
+0,"['no', 'phantasy', 'star', 'yesterday', 'going', 'work']",no phantasy star yesterday going work
+0,"['oh', 'just', 'got', 'macheist', 'apps', 'sweet', 'didnt', 'get', 'espresso', 'serial', 'no', 'though', 'although', 'said', 'sent', 'oh', 'well']",oh just got macheist apps sweet didnt get espresso serial no though although said sent oh well
+0,"['picked', 'mich', 'st', 'win', 'get', 'go', 'feeling', 'pretty', 'good', 'pick', 'way', 'untiltonight', 'lost', 'too']",picked mich st win get go feeling pretty good pick way untiltonight lost too
+0,"['alone', 'downstairsworking']",alone downstairsworking
+0,"['feel', 'bad']",feel bad
+0,"['just', 'hate', 'anoop', 'mean', 'seriously', 'shes', 'kinda', 'mean']",just hate anoop mean seriously shes kinda mean
+0,"['yes', 'sprint', 'g', 'only', 'baltimore', 'chicago', 'far']",yes sprint g only baltimore chicago far
+0,"['stuck', 'awake', 'middle', 'night', 'second', 'day', 'row', 'felt', 'terrible', 'yesterday']",stuck awake middle night second day row felt terrible yesterday
+0,"['thanks', 'bursting', 'bubble']",thanks bursting bubble
+0,"['going', 'school', 'soon', 'cant', 'find', 'anything', 'wear', 'gosh', 'hard']",going school soon cant find anything wear gosh hard
+0,"['serious', 'lol']",serious lol
+0,"['page', 'sooooo', 'long', 'got', 'deleted', 'sad', 'day', 'history']",page sooooo long got deleted sad day history
+0,"['crazy', 'wind', 'today', 'no', 'birding']",crazy wind today no birding
+0,"['currently', 'work']",currently work
+0,"['grrr', 'ipod', 'acting', 'weird', 'too', 'jai', 'ho', 'thinking', 'arent', 'playing', 'full', 'song', 'ughh']",grrr ipod acting weird too jai ho thinking arent playing full song ughh
+0,"['send', 'dvd', 'co', 'missed', 'heap', 'not', 'happy']",send dvd co missed heap not happy
+0,"['dont', 'see', 'big', 'deal', 'website']",dont see big deal website
+0,"['sorry', 'youre', 'go']",sorry youre go
+0,"['far', 'too', 'way', 'rail', 'tip']",far too way rail tip
+0,"['not', 'still', 'swear', 'keep', 'losing', 'gaining', 'losing', 'gaining', 'tweeps', 'heart', 'wrenching']",not still swear keep losing gaining losing gaining tweeps heart wrenching
+0,"['today', 'realized', 'too', 'good', 'hiding', 'thing', 'even', 'cant', 'find']",today realized too good hiding thing even cant find
+0,"['staying', 'friend', 'househouse', 'sitting', 'neighbor', 'loudhaving', 'party']",staying friend househouse sitting neighbor loudhaving party
+0,"['danny', 'upset', 'wasnt', 'watch', 'live', 'chat', 'car', 'hour', 'trip', 'soooo', 'upset']",danny upset wasnt watch live chat car hour trip soooo upset
+0,"['check', 'mug']",check mug
+0,"['border', 'closed']",border closed
+0,"['downloading', 'nins', 'new', 'album', 'quotthe', 'slipquot', 'hell', 'come', 'behind', 'time', 'day']",downloading nins new album quotthe slipquot hell come behind time day
+0,"['just', 'woke', 'already', 'written', 'email', 'ive', 'go', 'early', 'university', 'today', 'teach']",just woke already written email ive go early university today teach
+0,"['watching', 'hill', 'making', 'sad']",watching hill making sad
+0,"['many', 'channel', 'yet', 'boring', 'lazy', 'day', 'may', 'find', 'hobby']",many channel yet boring lazy day may find hobby
+0,"['miss', 'buddy', 'ill', 'ny', 'th']",miss buddy ill ny th
+0,"['love', 'french', 'tell', 'people', 'south', 'qtr', 'french', 'snarl', 'french', 'beautiful', 'people']",love french tell people south qtr french snarl french beautiful people
+0,"['opps', 'said', 'still', 'got', 'one', 'day', 'remain', 'problem', 'come']",opps said still got one day remain problem come
+0,"['activated', 'selfcontrol', 'block', 'early', 'meaning', 'cant', 'check', 'new', 'qc', 'regularizing', 'internal', 'clock', 'might', 'difficult']",activated selfcontrol block early meaning cant check new qc regularizing internal clock might difficult
+0,"['oh', 'no']",oh no
+0,"['spencer', 'not', 'good', 'guy']",spencer not good guy
+0,"['reese', 'dying', 'season', 'finale', 'next', 'week', 'boring', 'madame', 'president', 'crazy', 'woman']",reese dying season finale next week boring madame president crazy woman
+0,"['hate', 'limited', 'letterstoohope', 'guy', 'finei', 'pray', 'dogsheï½s', 'not', 'well']",hate limited letterstoohope guy finei pray dogsheï½s not well
+0,"['didnt', 'get', 'shit', 'done', 'today', 'screwed']",didnt get shit done today screwed
+0,"['wanttss', 'go']",wanttss go
+0,"['not', 'going', 'sleep', 'tonite']",not going sleep tonite
+0,"['too', 'worried', 'tired', 'post', 'tonight']",too worried tired post tonight
+0,"['couldnt', 'get', 'shit', 'done', 'today', 'screwed']",couldnt get shit done today screwed
+0,"['job', 'interview', 'cardiff', 'today', 'wish', 'luck', 'got', 'hour', 'sleep']",job interview cardiff today wish luck got hour sleep
+0,"['show', 'whack', 'way', 'worse', 'whack', 'wiggetywhack']",show whack way worse whack wiggetywhack
+0,"['really', 'dont', 'think', 'people', 'choose', 'way', 'but', 'think', 'chose', 'not', 'accept', 'family', 'help', 'might', 'dead']",really dont think people choose way but think chose not accept family help might dead
+0,"['youre', 'going', 'kill', 'but', 'ive', 'not', 'seen', 'd', 'ive', 'waiting', 'till', 'one', 'solid', 'week', 'sitting']",youre going kill but ive not seen d ive waiting till one solid week sitting
+0,"['think', 'ur', 'right', 'hahaha', 'hr']",think ur right hahaha hr
+0,"['hate', 'see', 'spartan', 'sad']",hate see spartan sad
+0,"['mind', 'body', 'severely', 'protesting', 'quotgetting', 'upquot', 'thing', 'nightmare', 'boot']",mind body severely protesting quotgetting upquot thing nightmare boot
+0,"['goin', 'follow', 'since', 'didnt', 'lol', 'go', 'angel']",goin follow since didnt lol go angel
+0,[],
+0,"['think', 'want', 'read', 'book', 'but', 'library', 'doesnt']",think want read book but library doesnt
+0,"['nap', 'interrupted', 'many', 'time', 'today', 'going', 'japanese', 'rent']",nap interrupted many time today going japanese rent
